@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codewithrohan
 - 👀 I’m interested in ...coding/web-development
 - 🌱 I’m currently learning ...C++ DSA 
-- 💞️ I’m looking to collaborate with ...Hacktoberfest Community😀
+- 💞️ Let's Collaborate😀
 - 📫 How to reach me ... Linkedin (https://www.linkedin.com/in/rohan-singh-rathore-3193511a1/)
 
 <!---
