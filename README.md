@@ -34,19 +34,6 @@
 - **Principles:** Solid grasp of OOPS for an organized coding approach
 - **API Development:** Experienced in API development with tools like Postman
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/codewithrohan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrohan&theme=radical&hide=glsl,python" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/codewithrohan">
-    <img src="https://github-readme-stats.vercel.app/api?username=codewithrohan&show_icons=true&theme=radical" alt="Rohan's GitHub Stats" />
-  </a>
-</p>
 
 ### 🔗 Connect with me
 
